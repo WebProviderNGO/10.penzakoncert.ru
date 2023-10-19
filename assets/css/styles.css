@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&display=swap');
+
+html {
+    --PrimaryColor: #0070ad;
+    --SecondaryColor: #101212;
+}
+
+html,
+.uk-heading-large,
+.uk-heading-medium,
+.uk-heading-small,
+h3 {
+    font-family: 'Alegreya', serif;
+}
+
+.D1 .uk-heading-large {
+    color: white;
+}

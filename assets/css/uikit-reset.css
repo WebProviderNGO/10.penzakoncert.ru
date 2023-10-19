@@ -1,0 +1,30 @@
+.uk-overlay-primary {
+    background: rgba(34, 34, 34, .5);
+}
+
+.uk-navbar-nav>li>a {
+    color: white;
+    font-weight: 700;
+}
+
+.uk-navbar-nav>li:hover>a,
+.uk-navbar-nav>li>a[aria-expanded="true"] {
+    color: #bbb;
+}
+
+.uk-card-default .uk-card-title {
+    color: #333 !important;
+}
+
+.uk-heading-line> ::after,
+.uk-heading-line> ::before {
+    border-bottom-color: var(--PrimaryColor);
+}
+
+.uk-section-primary {
+    background: var(--PrimaryColor);
+}
+
+.uk-button-primary {
+    background-color: var(--PrimaryColor);
+}
